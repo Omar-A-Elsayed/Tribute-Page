@@ -25,7 +25,7 @@ This is a tribute page dedicated to Dr. Norman Borlaug, the man who saved a bill
    ```
 2. **Navigate to the project directory:**
    ```bash
-    cd survey-form
+    cd tribute-page
    ```
 3. **Open the HTML file:**
 
